@@ -1,0 +1,21 @@
+.loginDiv
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: antiquewhite;  
+}
+.card
+{
+    width: 60%;
+    height: 50vh; 
+}
+h3
+{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+span a{
+    color: brown !important;
+}
